@@ -1,5 +1,5 @@
 <h2 align="center">
-    <img src="assets/banner.png" width="500">
+    <img src="assets/banner.png">
     <br> 
     👋 Hi, I’m Hau NGUYEN (Leo) 🇻🇳
     <br>
