@@ -1,7 +1,7 @@
 <h2 align="center">
     <img src="assets/banner.png">
     <br> 
-    👋 Hi, I’m Hau NGUYEN (Leo) 🇻🇳 🇸🇬
+    👋 Hi, I’m Leo 🇻🇳 🇸🇬 Senior Software Engineer, Mobile
     <br>
 </h2> 
 <p>
