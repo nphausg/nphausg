@@ -65,7 +65,7 @@
 
 🌱 I’m currently learning Deep Learning, Automation Test
 
-📚  Writing https://nphau.medium.com
+📚  Writing https://nphausg.medium.com
 
 📫 How to reach me: nphausg@gmail.com
 
