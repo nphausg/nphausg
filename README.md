@@ -5,7 +5,7 @@
     <br>
 </h2> 
 <p>
- I am a team-oriented software engineer with a proficiency in problem-solving, backed by more than seven years of collaboration with designers, developers, and programmers across various projects. My academic background includes a master's degree in Information Systems from UCBL France.
+ I am a team-oriented software engineer with a proficiency in problem-solving, backed by more than 8 years of collaboration with designers, developers, and programmers across various projects. My academic background includes a master's degree in Information Systems from UCBL France.
 </p>
 <p>
  I love to contribute to open source projects. I also write about software engineering, learning, and career to help readers. A true Software Engineer aspires to build a strong community and help other people grow up.
