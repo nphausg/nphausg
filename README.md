@@ -1,7 +1,7 @@
 <h2 align="center">
     <img src="assets/banner.png">
     <br> 
-    👋 Hi, I’m Leo N 🇻🇳 🇸🇬 🇲🇾 🇦🇺 Lead Software Engineer, Mobile
+    👋 Hi, I’m Leo N 🇻🇳 🇸🇬 🇲🇾 🇦🇺 Engineer @ GXS Bank | MSc 🎓 | Technical Writer
     <br>
 </h2> 
 <p>
