@@ -1,13 +1,15 @@
 <h2 align="center">
     <img src="assets/banner.png">
     <br> 
-    👋 Hi, I’m Leo N 🇻🇳 🇸🇬 🇲🇾 🇦🇺 Engineer @ GXS Bank | MSc 🎓 | Technical Writer
+    👋 Hi, I’m Leo N 🇻🇳 🇸🇬 🇲🇾 🇦🇺 🇹🇭 Engineer @ GXS Bank | MSc 🎓 | Technical Writer
     <br>
 </h2> 
+
+<p align="center">
+<a href="https://medium.com/@nphausg"><img alt="Medium" src="./badges/medium.svg"/></a>
 <p>
  I am a team-oriented software engineer with a proficiency in problem-solving, backed by more than 8 years of collaboration with designers, developers, and programmers across various projects. My academic background includes a master's degree in Information Systems from UCBL France.
-</p>
-<p>
+ 
  I love to contribute to open source projects. I also write about software engineering, learning, and career to help readers. A true Software Engineer aspires to build a strong community and help other people grow up.
 </p>
 
@@ -74,4 +76,6 @@
 
 🔥 Twitter: https://twitter.com/nphausg
 
-<a href="https://revolut.me/nphausg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="nphausg" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+🔥 Google Dev: https://g.dev/nphausg
+
+<a href="https://github.com/sponsors/nphausg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="nphausg" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
