@@ -6,6 +6,7 @@
 </h2> 
 
 <p align="center">
+<a href="https://g.dev/nphausg"><img alt="Google" src="./badges/google_dev.png" width="34" height="20"/></a>
 <a href="https://medium.com/@nphausg"><img alt="Medium" src="./badges/medium.svg"/></a>
 <p>
  I am a team-oriented software engineer with a proficiency in problem-solving, backed by more than 8 years of collaboration with designers, developers, and programmers across various projects. My academic background includes a master's degree in Information Systems from UCBL France.
@@ -76,6 +77,7 @@
 
 🔥 Twitter: https://twitter.com/nphausg
 
-🔥 Google Dev: https://g.dev/nphausg
+<a href="https://g.dev/nphausg"><img alt="Google" src="./badges/google_dev.png" width="17" height="10"/> Google: https://g.dev/nphausg</a>
+
 
 <a href="https://github.com/sponsors/nphausg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="nphausg" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
