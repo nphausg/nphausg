@@ -14,7 +14,7 @@
  I love to contribute to open source projects. I also write about software engineering, learning, and career to help readers. A true Software Engineer aspires to build a strong community and help other people grow up.
 </p>
 
-<h2 align="left">🛠️ Technologies Stack:</h2>
+<h2 align="left">🛠️ Tech Stack</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -60,24 +60,27 @@
     </a>
 </p>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2 align="left">👨🏻‍💻 About Me</h2>
 
+- 😄 Pronouns: /ˈliː.əʊ/
 
-💻 I am working as Lead Software Engineer, Mobile
+- 💻 I am working as Lead Software Engineer, Mobile
 
-👀 I’m interested in Banking, Fintech, Blockchain
+- 👀 I’m interested in Banking, Fintech, Blockchain
 
-❤️ Open Source Software
+- ❤️ Open Source Software
 
-🌱 I’m currently learning Deep Learning, Automation Test
+- 🌱 I’m currently learning Deep Learning, Automation Test
 
-📚  Writing https://nphausg.medium.com
+<h2 align="left">📫 Connect with Me</h2>
 
-📫 How to reach me: nphausg@gmail.com
+- 📚  Writing https://nphausg.medium.com
 
-🔥 Twitter: https://twitter.com/nphausg
+- 📫 How to reach me: nphausg@gmail.com
 
-<a href="https://g.dev/nphausg"><img alt="Google" src="./badges/google_dev.png" width="17" height="10"/> Google: https://g.dev/nphausg</a>
+- 🔥 Twitter: https://twitter.com/nphausg
+
+- <a href="https://g.dev/nphausg"><img alt="Google" src="./badges/google_dev.png" width="17" height="10"/> Google: https://g.dev/nphausg</a>
 
 
 <a href="https://github.com/sponsors/nphausg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="nphausg" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
