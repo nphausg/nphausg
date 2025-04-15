@@ -64,7 +64,7 @@
 
 - 😄 Pronouns: /ˈliː.əʊ/
 
-- 💻 I am working as Lead Software Engineer, Mobile
+- 💻 I am working as Staff Software Engineer, Mobile
 
 - 👀 I’m interested in Banking, Fintech, Blockchain
 
@@ -74,9 +74,11 @@
 
 <h2 align="left">📫 Connect with Me</h2>
 
-- 📚  Writing https://nphausg.medium.com
+- 📚  Writing [medium](https://nphausg.medium.com)
 
 - 📫 How to reach me: nphausg@gmail.com
+
+- 📫 LinkedIn: [in/nphausg](https://www.linkedin.com/in/nphausg/)
 
 - 🔥 Twitter: https://twitter.com/nphausg
 
