@@ -1,7 +1,7 @@
 <h2 align="center">
     <img src="assets/banner.png">
     <br> 
-    👋 Hi, I’m Leo N 🇻🇳 🇸🇬 🇲🇾 🇦🇺 🇹🇭 Engineer @ GXS Bank | MSc 🎓 | Technical Writer
+    👋 Hi, I’m Leo N 🇻🇳 🇸🇬 🇲🇾 🇦🇺 🇹🇭 Engineer @ OKX | MSc 🎓 | Technical Writer
     <br>
 </h2> 
 
@@ -9,7 +9,12 @@
 <a href="https://g.dev/nphausg"><img alt="Google" src="./badges/google_dev.png" width="34" height="20"/></a>
 <a href="https://medium.com/@nphausg"><img alt="Medium" src="./badges/medium.svg"/></a>
 <p>
- I am a team-oriented software engineer with a proficiency in problem-solving, backed by more than 8 years of collaboration with designers, developers, and programmers across various projects. My academic background includes a master's degree in Information Systems from UCBL France.
+ I am a driven and team-oriented Software Engineer with over 10 years of experience in Android development, specializing in designing, developing, and delivering top-notch software solutions. Throughout my career, I have worked closely with designers, developers, and managers to build scalable and efficient applications that provide seamless user experiences. I hold a Vietnam – France joint Master's program (HCMUS + LYON 1) which has equipped me with a strong academic background in software engineering, data structures, algorithms, and system design. My enthusiasm for continuous learning and innovation inspires me to delve into cutting-edge technologies and industry best practices.
+-------
+
+"A person who never made a mistake never tried anything new." — Albert Einstein
+
+-------
  
  I love to contribute to open source projects. I also write about software engineering, learning, and career to help readers. A true Software Engineer aspires to build a strong community and help other people grow up.
 </p>
