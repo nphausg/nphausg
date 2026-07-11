@@ -33,20 +33,53 @@
 
 ## About
 
-Engineering Manager / Mobile Platform Lead with **11+ years** of experience delivering large-scale Android platform infrastructure, reliability improvements, and developer productivity initiatives across modular mobile ecosystems. Proven track record improving production stability, optimizing startup performance, and leading cross-team platform programs spanning security, observability, and architecture modernization. Recently focused on building AI-assisted engineering workflows that automate spec-to-code delivery and intelligent code review across multi-repository mobile environments.
+Staff Software Engineer with **11+ years** building large-scale Android platform infrastructure at companies in Fintech, Blockchain, and Super-app ecosystems. I specialize in mobile platform reliability, startup performance, and developer productivity — the kind of work that multiplies the output of every engineer on the team.
 
-Collaborate closely with product, design, and engineering teams to deliver scalable, high-performance applications that support seamless user experiences at scale. Hold a **Vietnam–France Joint Master's degree** (HCMUS + Université Claude Bernard Lyon 1) with strong foundations in software engineering, algorithms, and system design. Passionate about applying emerging technologies and industry best practices to improve platform quality, engineering velocity, and organizational impact.
+Lately I've been focused on **AI-Native engineering workflows**: automating spec-to-code delivery, intelligent code review, and multi-agent orchestration across mobile environments.
+
+Hold a **Vietnam–France Joint Master's degree** (HCMUS + Université Claude Bernard Lyon 1).
 
 > *"A person who never made a mistake never tried anything new."* — Albert Einstein
+
+---
+
+## What I Work On
+
+| Area | Focus |
+| --- | --- |
+| Mobile Platform | Android architecture, modular systems, startup & runtime performance |
+| AI Engineering | Agent skills, spec-to-code automation, multi-agent orchestration |
+| Developer Tooling | Code review automation, observability, CI/CD reliability |
+| Open Source | Reusable libraries, Cursor rules, Claude Code skills |
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+  ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+  ![Hilt](https://img.shields.io/badge/Hilt-34A853?style=flat-square&logo=google&logoColor=white)
+  ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+  ![Room](https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=white)
+  ![WorkManager](https://img.shields.io/badge/WorkManager-3DDC84?style=flat-square&logo=android&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+  ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+</div>
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nphausg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nphausg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=nphausg&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -54,9 +87,9 @@ Collaborate closely with product, design, and engineering teams to deliver scala
 ## Currently
 
 - **Role:** Staff Software Engineer, Mobile @ OKX
-- **Interests:** Fintech · Blockchain · Deep Learning · Automation Testing
+- **Interests:** Fintech · Blockchain · Deep Learning · AI Automation
 - **Writing:** Engineering insights on [Medium](https://nphausg.medium.com)
-- **Open Source:** Contributor and maintainer — community first
+- **Open Source:** Maintainer of [aiagent.skills](https://github.com/nphausg/aiagent.skills) — skills & rules for AI coding agents
 - **Location:** 🇻🇳 🇸🇬 🇲🇾 🇦🇺 🇹🇭
 
 ---
