@@ -54,7 +54,7 @@ Hold a **Vietnam–France Joint Master's degree** (HCMUS + Université Claude Be
 
 ---
 
-## Tech Stack
+## GitHub Stats
 
 <div align="center">
 
@@ -72,14 +72,8 @@ Hold a **Vietnam–France Joint Master's degree** (HCMUS + Université Claude Be
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
   ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=nphausg&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
 </div>
 
 ---
