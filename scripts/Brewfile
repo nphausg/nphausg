@@ -1,0 +1,18 @@
+# Brewfile
+
+# Terminal Utilities
+brew "python@3.12"
+brew "wget"
+brew "node"
+brew "curl"
+brew "htop"
+brew "ripgrep"
+brew "git-lfs"
+
+# GUI Applications
+cask "iterm2"
+cask "visual-studio-code"
+cask "claude-code"
+
+# Add the Powerlevel10k font cask here:
+cask "font-meslo-for-powerlevel10k"

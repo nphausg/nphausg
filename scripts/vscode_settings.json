@@ -1,0 +1,46 @@
+{
+  // --- Your Existing Preferences ---
+  "workbench.colorTheme": "Light 2026",
+  "workbench.startupEditor": "none",
+  "security.workspace.trust.untrustedFiles": "open",
+  "explorer.confirmDragAndDrop": false,
+  "files.autoSave": "afterDelay",
+  "editor.minimap.enabled": false,
+  "files.exclude": {
+    "**/.git": false
+  },
+  // --- Terminal Preferences (with iTerm2 & Smooth Scrolling) ---
+  "terminal.integrated.mouseWheelScrollSensitivity": 3,
+  "terminal.integrated.gpuAcceleration": "off",
+  "terminal.integrated.defaultProfile.osx": "iterm",
+  "terminal.integrated.profiles.osx": {
+    "iterm": {
+      "path": "open",
+      "args": [
+        "-a",
+        "iTerm"
+      ]
+    }
+  },
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  // --- Editor & Productivity Standards ---
+  "editor.fontSize": 14,
+  "editor.fontFamily": "MesloLGS NF, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "explicit"
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "editor.cursorBlinking": "smooth",
+  "editor.smoothScrolling": true,
+  // --- File Maintenance ---
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  // --- Git Integration ---
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true
+}
